@@ -36,7 +36,6 @@ public class AlquilerVehiculos : MonoBehaviour
         {
             vehiculos[i].SetActive(false);
         }
-        
     }
     void activateByIndex()
     {
